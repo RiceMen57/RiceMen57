@@ -1,0 +1,9 @@
+- 👋 Hi, We're @RiceMen57
+- 👀 We're interested in UI/UX design, Web Development, Programming...
+- 🌱 We’re currently learning Backend for Web Development, Python, Machine Learning...
+- 📫 How to reach me ricemen57@gmail.com...
+
+<!---
+RiceMen57/RiceMen57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
